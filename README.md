@@ -9,7 +9,7 @@
 
 ## 此次用到的演算法：
 
-### SVM:
+### Kmeans:
 - https://zh.wikipedia.org/wiki/K-%E5%B9%B3%E5%9D%87%E7%AE%97%E6%B3%95
 
 ## 個人檔案：
